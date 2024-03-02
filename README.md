@@ -1,4 +1,4 @@
-### Dashboard Analisis Instagram Repositorio
+### Analisis Dashboard Instagram Repositorio
 
 ##### usuario: qsnanalisis
 ##### pass: qsnanalisis2024
