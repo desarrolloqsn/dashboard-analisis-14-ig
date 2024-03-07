@@ -60,7 +60,7 @@ export default function TablaTweets() {
       width: '50%',
       title: (
         <Tooltip title='Mas engagements referido a la suma de me gusta, retweets, comentarios y citas.'>
-          Tweets
+          Posteos
         </Tooltip>
       ),
 

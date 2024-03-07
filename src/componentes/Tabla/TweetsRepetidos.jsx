@@ -159,7 +159,7 @@ const data = [
 
 const columns = [
   {
-    title: 'Tweets',
+    title: 'Posteos',
     dataIndex: 'Tweets',
     width: '50%',
   
